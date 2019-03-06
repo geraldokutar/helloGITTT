@@ -39,7 +39,7 @@ Emojis
 :kissing:
 :kissing_smiling_eyes:
 ##
-Favourite Quote
+Favourite Quote 
 
 >
 Life is like riding a bicycle. To keep your balance you must keep moving.
